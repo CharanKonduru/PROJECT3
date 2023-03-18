@@ -4,7 +4,7 @@ Event management is the application of management to the creation and developmen
 **Project Link** -https://purple-plant-08b00b900.2.azurestaticapps.net
 
 
-project demo video link**- https://youtu.be/7F5TkBagrZ8
+**project demo video link**- https://youtu.be/7F5TkBagrZ8
 
 ## Web Technologies used 
 - HTML
