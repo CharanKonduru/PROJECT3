@@ -19,15 +19,15 @@ Event management, as name suggests, is simply management that focuses on using b
 An event management website made for college which includes various features like creating events, registering for events, QR code generation, payment gateways, etc.
 
 ## Screenshots
-![Screenshot (1457)](https://user-images.githubusercontent.com/89301294/170825747-9bacb1d9-44a9-4bf4-a6ca-a9e096ef10c9.png)
+![Screenshot (165)](https://user-images.githubusercontent.com/124521963/226082419-a7877567-d125-4ff1-8dda-f495e21b5257.png)
+![Screenshot (166)](https://user-images.githubusercontent.com/124521963/226082420-0225d7e5-778a-4fed-9de6-606735c7f829.png)
+![Screenshot (167)](https://user-images.githubusercontent.com/124521963/226082422-66c8ce94-64f3-407f-8a57-0f02758241b2.png)
 
-
-![Screenshot (1458)](https://user-images.githubusercontent.com/89301294/170825781-5e1bb04b-e226-4d04-97f8-007564212d3b.png)
-
-![Screenshot (1459)](https://user-images.githubusercontent.com/89301294/170825820-7652fbf3-fd69-4e0f-bdb4-08878a49b9cb.png)
-
-![Screenshot (1460)](https://user-images.githubusercontent.com/89301294/170825834-2048507e-7912-49e0-a496-987b311732bf.png)
-![Screenshot (1461)](https://user-images.githubusercontent.com/89301294/170825845-b385cda9-5ffc-4bd9-885c-526e15bf8951.png)
+![Screenshot (168)](https://user-images.githubusercontent.com/124521963/226082432-5f07e00f-8821-432d-a4ba-a807b3107e69.png)
+![Screenshot (169)](https://user-images.githubusercontent.com/124521963/226082435-a4314fc6-9249-4437-8161-1d69bc580005.png)
+![Screenshot (170)](https://user-images.githubusercontent.com/124521963/226082449-bb983238-0fa1-4b18-9a3e-a44e0bf45c10.png)
+![Screenshot (171)](https://user-images.githubusercontent.com/124521963/226082455-ed2b20c5-5c90-40ef-a579-ea7efa636a46.png)
+![Screenshot (172)](https://user-images.githubusercontent.com/124521963/226082464-1407644a-2dfc-437d-9aa0-ac9ce064abc4.png)
 
 ## Thank you for visiting my github repository
 
