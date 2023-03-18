@@ -9,8 +9,8 @@ Event management is the application of management to the creation and developmen
 - CSS
 - JS 
 ## Azure technologies used for Project
-.Static web apps
-.Health bot
+-Static web apps
+-Health bot
 
 ## IDE
 - VS-Code
