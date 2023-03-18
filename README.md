@@ -2,7 +2,7 @@
 Event management is the application of management to the creation and development of large scale events such as festivals, ceremonies, formal parties, concerts, or conventions. It is needed everywhere in many businesses like retail, sport, finance, etc. The objective of this application is to develop a system that effectively manages all the data related to the various events that take place in an organization like it works with budgets, schedules, and venues to create the best possible events for their clients
 
 **Project Link** -https://purple-plant-08b00b900.2.azurestaticapps.net
-**project demo video link**- https://youtu.be/7F5TkBagrZ8
+##project demo video link**- https://youtu.be/7F5TkBagrZ8
 
 ## Web Technologies used 
 - HTML
